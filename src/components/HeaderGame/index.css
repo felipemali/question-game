@@ -1,0 +1,14 @@
+.header-game {
+  border-bottom: 4px solid rgb(50, 202, 223);
+  background-color: rgb(226, 190, 29);
+  padding: 0 2rem;
+}
+.header-game nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon {
+  color: red;
+}
